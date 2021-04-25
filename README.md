@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WolfTom34
-- 👀 I’m interested in robotics more spesificly in drone 
-- 🌱 I’m currently learning on microcontrollers techologie (like micro-ROS) and more stuff 
+- 👋 Hi, I’m @WolfTom34 (Software developer)
+- 👀 I’m interested in robotics more specifically in drone 
+- 🌱 I'm currently learning about microcontroller technology (like micro-ROS) and other stuff.
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/tom-wolf-736508181/
