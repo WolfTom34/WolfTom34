@@ -1,4 +1,3 @@
 - 👋 Hi, I’m WolfTom (System developer)
 - 👀 I’m interested in robotics more specifically in drone 
 - 🌱 I'm currently learning about nanotechnologie and other stuff.
-- 📫 You can reach me on linkedin https://www.linkedin.com/in/tom-wolf-736508181/
